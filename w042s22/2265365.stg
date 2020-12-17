@@ -1,0 +1,17 @@
+OBJECT_BASE 2265365.btg
+OBJECT SBCP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.304304 -21.701843 14.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.297532 -21.695801 15.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -41.305469 -21.700572 14.7 0.00
+OBJECT_SIGN {@L}A{@R}25-07{@@,@L}A{@Y}RAMP{^ru} -41.307081 -21.702170 15.3 224.62 3
+OBJECT_SIGN {@L}A{@R}25-07{@@,@L}A{@Y}RAMP{^ru} -41.307363 -21.702422 15.3 224.62 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.304317 -21.699288 14.1 313.72 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.304425 -21.699171 14.0 313.72 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.296653 -21.693099 13.8 44.51 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.296826 -21.693245 14.1 44.51 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.299158 -21.695295 15.0 44.51 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -41.299372 -21.695492 14.9 44.51 3
+OBJECT SIAC.btg
+OBJECT_SHARED Models/Airport/windsock.xml -41.312083 -21.740707 6.8 0.00
+OBJECT SIJT.btg
+OBJECT_SHARED Models/Airport/windsock.xml -41.302845 -21.749887 8.8 0.00

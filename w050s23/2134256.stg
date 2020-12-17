@@ -1,0 +1,33 @@
+OBJECT_BASE 2134256.btg
+OBJECT SBML.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.927551 -22.198070 644.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.926658 -22.192863 639.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -49.927823 -22.197020 643.6 0.00
+OBJECT_SIGN {@L}A{@Y,^l}B{@@,@L}A{@Y}RAMP{^u} -49.928287 -22.197699 643.9 256.54 3
+OBJECT_SIGN {@L}A{@Y,^l}B{@@,@L}A{@Y}RAMP{^u} -49.928223 -22.197399 643.7 256.54 3
+OBJECT_SIGN {@L}B{@Y}B1{^u}|B2{^u,@@,@L}B{@Y,^l}A{^r} -49.927229 -22.196947 643.7 347.63 3
+OBJECT_SIGN {@L}B{@Y}B1{^u}|B2{^u,@@,@L}B{@Y,^l}A{^r} -49.927543 -22.196884 643.6 347.63 3
+OBJECT_SIGN {@L}B{@Y,^l}B1{@@,@L}B{@Y}A{^u} -49.926901 -22.195752 642.6 347.63 3
+OBJECT_SIGN {@L}B{@Y,^l}B1{@@,@L}B{@Y}A{^u} -49.927257 -22.195680 642.6 347.63 3
+OBJECT_SIGN {@L}B{@Y,^l}B2{@@,@L}B{@Y}B1{^r} -49.926695 -22.194844 641.6 347.63 3
+OBJECT_SIGN {@L}B{@Y,^l}B2{@@,@L}B{@Y}B1{^r} -49.927025 -22.194776 641.6 347.63 3
+OBJECT_SIGN {@L}B{@Y}B2{^r,@@,@L}B{@Y}RWY21{^u} -49.926491 -22.193996 640.6 167.43 3
+OBJECT_SIGN {@L}B{@Y}B2{^r,@@,@L}B{@Y}RWY21{^u} -49.926822 -22.193942 640.6 167.43 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.929275 -22.197718 643.0 239.86 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.929211 -22.197616 643.0 239.86 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.928186 -22.197839 644.0 167.56 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.928013 -22.197879 644.1 167.56 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.927544 -22.196429 643.2 72.77 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.927472 -22.195038 641.8 348.86 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.927508 -22.196259 643.1 72.77 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.926833 -22.193545 640.1 72.77 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -49.926777 -22.193337 639.8 72.77 3
+OBJECT_SIGN {no-entry,hazard,no-entry,@@,no-entry,hazard,no-entry} -49.926192 -22.193739 640.1 72.77 3
+OBJECT_SIGN {no-entry,hazard,no-entry,@@,no-entry,hazard,no-entry} -49.926123 -22.193474 639.7 72.77 3
+OBJECT_SIGN {@L}B{@R}21-03{@@,@L}B{@Y,^l}A|{^l}B1|{^l}B2 -49.926044 -22.192377 638.1 282.10 3
+OBJECT_SIGN {@L}B{@R}21-03{@@,@L}B{@Y,^l}A|{^l}B1|{^l}B2 -49.925976 -22.192648 638.5 282.10 3
+OBJECT_SIGN {@L}A{@R}21-03{@@,@L}A{@Y}A{^u}|B{^r} -49.927243 -22.197576 644.1 257.66 3
+OBJECT_SIGN {@L}A{@R}21-03{@@,@L}A{@Y}A{^u}|B{^r} -49.927322 -22.197894 644.2 257.66 3
+OBJECT SDVE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.821065 -22.227208 650.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.813422 -22.233100 634.6 0.00

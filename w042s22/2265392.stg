@@ -1,0 +1,4 @@
+OBJECT_BASE 2265392.btg
+OBJECT SDUN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.880364 -21.223167 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -41.871483 -21.215367 113.2 0.00

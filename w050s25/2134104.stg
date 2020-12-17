@@ -1,0 +1,5 @@
+OBJECT_BASE 2134104.btg
+OBJECT SSIS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.925111 -24.539541 1041.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -49.916556 -24.543238 1050.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -49.920652 -24.541001 1047.5 0.00

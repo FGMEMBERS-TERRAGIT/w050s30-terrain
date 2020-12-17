@@ -1,0 +1,4 @@
+OBJECT_BASE 2183307.btg
+OBJECT SNRI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.055697 -23.797969 11.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.054914 -23.797918 -9999.0 0.00

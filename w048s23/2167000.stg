@@ -1,0 +1,6 @@
+OBJECT_BASE 2167000.btg
+OBJECT SDAE.btg
+OBJECT_SHARED Models/Airport/windsock.xml -47.896309 -22.583954 576.4 0.00
+OBJECT SIUE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.880654 -22.598806 501.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.880586 -22.598268 -9999.0 0.00

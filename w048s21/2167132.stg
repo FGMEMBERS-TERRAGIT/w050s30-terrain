@@ -1,0 +1,5 @@
+OBJECT_BASE 2167132.btg
+OBJECT SIMK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.388965 -20.599632 1003.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.376885 -20.584793 1002.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.383751 -20.591677 1000.8 0.00
